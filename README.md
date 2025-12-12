@@ -4,7 +4,7 @@
 
 I'm Thiago, passionate about technology and innovation. Feel free to see the repositories and DM for any issue or recommendation. Peace. <br>
 
-<br>💻 Student of Computer Science Education<br>📱 PC Repair and Maintenance Technician<br>🖨️ Advanced Professional PC Operator<br>🔋 Accounting Administrative Assistant<br>
+<br>💻 Student of Computer Science Educator<br>📱 PC Repair and Maintenance Technician<br>🖨️ Advanced Professional PC Operator<br>🔋 Accounting Administrative Assistant<br>
 
 
 ## 🌐 Socials:
