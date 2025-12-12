@@ -1,5 +1,5 @@
 # Retr0Sys
-# Hi there!
+## Hi there!
 ## 💫 About Me:
 
 I'm Thiago, passionate about technology and innovation. Feel free to see the repositories and DM for any issue or recommendation. Peace. <br>
