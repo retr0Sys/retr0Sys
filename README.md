@@ -76,8 +76,6 @@ const thiago = {
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Retr0Sys&theme=prussian&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0Sys&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### 🏆 Top Contributed Repositories
 ![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Retr0Sys&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
