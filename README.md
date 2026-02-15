@@ -3,8 +3,7 @@
 
 # 👋 Hey there! I'm Thiago
 
-### 🚀 Tech Enthusiast | 🔐 Cybersecurity Explorer | 💻 Computer Science | </> FullStack dev (On going) | 
-📈 accounting 
+### 🚀 Tech Enthusiast | 🔐 Cybersecurity Explorer | 💻 Computer Science | </> FullStack dev (On going) |📈 accounting 
 
 [![GitHub followers](https://img.shields.io/github/followers/Retr0Sys?style=social)](https://github.com/Retr0Sys)
 
