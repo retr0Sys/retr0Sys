@@ -1,19 +1,120 @@
 # Retr0Sys
-## Hi there :) !
-## 💫 About Me:
+<div align="center">
 
-I'm Thiago, passionate about technology and innovation. Feel free to see the repositories and DM for any issue or recommendation. Peace. <br>
+# 👋 Hey there! I'm Thiago
 
-<br>💻 Student of Computer Science Educator<br>📱 PC Repair and Maintenance Technician<br>🖨️ Advanced Professional PC Operator<br>🔋 Accounting Administrative Assistant <br> 🛡️Cybersecurity enthusiast<br>
+### 🚀 Tech Enthusiast | 🔐 Cybersecurity Explorer | 💻 Computer Science | </> FullStack dev (On going) | 📈 accounting 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Retr0Sys&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0Sys&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub followers](https://img.shields.io/github/followers/Retr0Sys?style=social)](https://github.com/Retr0Sys)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Retr0Sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Retr0Sys&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Retr0Sys&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌟 About Me
+
+I'm passionate about technology, innovation, and building solutions that matter. Currently diving deep into computer science while exploring the fascinating world of cybersecurity. Always learning, always building.
+
+```javascript
+const thiago = {
+    location: "Uruguay 🇺🇾",
+    currentFocus: ["Computer Science", "Cybersecurity", "AI/ML"],
+    funFact: "I fix computers by day, break code by night 🌙",
+    openTo: "Collaborations, learning opportunities, and tech discussions"
+};
+```
+
+### 🎯 What I Do
+
+- 🎓 **Computer Science Education Student** - Building strong foundations in software development
+- 🔧 **PC Repair & Maintenance Technician** - Hardware meets software
+- 💼 **Accounting Administrative Assistant** - Where tech meets business
+- 🛡️ **Cybersecurity Enthusiast** - Exploring the world of digital security
+- 🖥️ **Advanced Professional PC Operator** - Mastering the tools of the trade
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages & Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Data Science & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+
+### Creative Suite
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Retr0Sys&theme=prussian&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0Sys&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🏆 Top Contributed Repositories
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Retr0Sys&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🎮 Beyond Code
+
+When I'm not coding, you'll find me:
+
+- 🎮 Gaming on **PlayStation** & **Steam**
+- 🏎️ Racing through virtual worlds
+- 🔧 Tinkering with hardware (AMD enthusiast!)
+- 📚 Reading about the latest in tech and some philosophy
+- 🌱 Growing my skills one commit at a time
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+💬 **Open to collaborations, questions, and tech discussions**
+
+📫 **Feel free to explore my repositories and reach out!**
+
+⭐ **If you find something useful, don't forget to star it!**
+
+---
+
+### 💡 *"The best way to predict the future is to invent it."* - Alan Kay
+
+---
+
+**Happy Coding, Peace ✌️**
+**Made with 💙 and lots of ☕**
+
+</div>
