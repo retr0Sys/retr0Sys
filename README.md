@@ -1,4 +1,4 @@
-# Retr0Sys
+# retr0Sys
 <div align="center">
 
 # 👋 Hey there! I'm Thiago
