@@ -115,6 +115,6 @@ When I'm not coding, you'll find me:
 
 ---
 
-**Made with 💙 and lots of ☕**
+**Made with 💙 and lots of 🧉**
 
 </div>
